@@ -1,0 +1,7 @@
+깃허브와 RStudio 연동하기
+
+1. git을 설치한다.
+2. Tools - Global options에 들어간다.
+3. Git/SVN 메뉴에 들어가서 깃허브가 설치된 경로를 지정해준다.
+4. R Studio를 재시작하고, new project를 눌러서 연동을 확인한다.
+
